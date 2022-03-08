@@ -3,3 +3,4 @@
 /pkg/**
 !/pkg/assaultcube.json
 !/pkg/assaultcube.txt
+/dependency-reduced-pom.xml

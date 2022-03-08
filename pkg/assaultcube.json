@@ -1,6 +1,6 @@
 {
   "name": "AssaultCube",
-  "version": 3,
+  "version": 4,
   "price": 1000000000000000000000000,
   "payment-address": "nano_3d8htjduerq45i838f4637n5bw6zydoddwy5cyh16od59o3anff9x4basnyw",
   "overlay-class": "AssaultCubeOverlay"
