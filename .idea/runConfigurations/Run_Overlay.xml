@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Overlay" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="iflores.vamos.VamosMain" />
+    <module name="assaultcube-overlay" />
+    <option name="PROGRAM_PARAMETERS" value="AssaultCubeOverlay" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
